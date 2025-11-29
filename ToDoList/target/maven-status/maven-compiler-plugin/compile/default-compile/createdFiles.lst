@@ -1,0 +1,7 @@
+com\todo\TaskAlert.class
+com\todo\TaskDAO.class
+com\todo\EmailValidator.class
+com\todo\Task.class
+com\todo\App.class
+com\todo\DBConnection.class
+com\todo\UserDAO.class
